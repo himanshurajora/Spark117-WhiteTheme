@@ -1,0 +1,21 @@
+{
+    "name": "spark117-light-theme",
+    "displayName": "Spark117 Light Theme",
+    "description": "The light theme for computer nerds",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spark117 Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Spark117 Light Theme-color-theme.json"
+            }
+        ]
+    }
+}
