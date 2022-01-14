@@ -3,6 +3,11 @@
     "displayName": "Spark117 Light Theme",
     "description": "The light theme for computer nerds",
     "version": "0.0.1",
+    "publisher": "spark117uniqstuff",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/himanshurajora/Spark117-WhiteTheme"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
